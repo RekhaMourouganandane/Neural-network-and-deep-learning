@@ -1,12 +1,14 @@
 # Neural-network-and-deep-learning
 # CE889 – Neural Networks and Deep Learning Assignment
 # 1. Objectives
-• To translate the theoretical knowledge gained throughout the lectures into practise by
-designing and implementing a neural network capable of solving a dynamic
+• To translate the theoretical knowledge gained throughout the lectures into practise by designing and implementing a neural network capable of solving a dynamic
 environment problem.
+
 • Understand how different deep learning architectures work.
+
 • Be capable of implementing a deep learning architecture using TensorFlow and
 PyTorch.
+
 • Present the results of using a dataset from a Kaggle Competition to train a deep
 learning architecture and make predictions with them. 
 
